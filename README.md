@@ -9,4 +9,5 @@ Minishell is a 42 school team project involving the creation of a basic, functio
 ## Team
 
 **mguerri** | Parsing
+
 **atamer** | Execution
